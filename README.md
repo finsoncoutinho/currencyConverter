@@ -6,7 +6,7 @@ This project is made using Forex Python and tkinter.
 Forex Python is a Free Foreign exchange rates and currency conversion. It has functions and parameters which can take inputs for the required currency codes and then give the result for the conversion.
 
 The below example gives the live conversion rate.
-##Example:
+## Example:
 ```
 from forex_python.converter import CurrencyRates
 
@@ -14,7 +14,7 @@ c = CurrencyRates()
 
 print(c.get_rate('USD', 'GBP'))
 ```
-##Output:
+## Output:
 ```
 0.8257387755
 ```
@@ -28,7 +28,7 @@ To creat a GUI application you need to perform the following steps:
 1. Add one or more of the widgets to the GUI application.
 1. Enter the main event loop to take action against each event triggered by the user.
 
-##Example:
+## Example:
 
 ```
 #!/usr/bin/python
