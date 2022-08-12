@@ -2,7 +2,7 @@
 
 This project is made using Forex Python and tkinter.
 
-##Forex Python
+## Forex Python
 Forex Python is a Free Foreign exchange rates and currency conversion. It has functions and parameters which can take inputs for the required currency codes and then give the result for the conversion.
 
 The below example gives the live conversion rate.
@@ -19,7 +19,7 @@ print(c.get_rate('USD', 'GBP'))
 0.8257387755
 ```
 
-##Tkinter
+## Tkinter
 Tkinter is the standard GUI library for Python. Python when combined with Tkinter provides a fast and easy way to create GUI applications. Tkinter provides a powerful object-oriented interface to the Tk GUI toolkit.
 
 To creat a GUI application you need to perform the following steps:
